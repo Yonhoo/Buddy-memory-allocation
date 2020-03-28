@@ -8,6 +8,8 @@
 	
 	  伙伴系统一般使用于大内存块的分配，并且是2的幂次
 
+![image](https://github.com/Yonhoo/Buddy-memory-allocation-/blob/master/image/p12312931.jpg)
+
 实现思路：
      
       
